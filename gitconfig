@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robertford88@gmail.com
+	name = Robert Ford
